@@ -63,5 +63,3 @@ Then open the URL shown in your terminal (usually http://localhost:8501).
 📍 Location : Pakistan
 
 💼 Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
-
-🔗 [LinkedIn Profile](www.linkedin.com/in/ahmedalimalik)
