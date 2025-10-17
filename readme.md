@@ -56,6 +56,7 @@ Then open the URL shown in your terminal (usually http://localhost:8501).
 5. Choose model parameters (p, d, q, P, D, Q, seasonal period).
 
 6. Generate forecasts and visualize actual vs predicted prices.
+
 👨‍💻 Author
 
 **Ahmed Ali Malik**
