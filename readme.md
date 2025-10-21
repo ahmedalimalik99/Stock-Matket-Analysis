@@ -184,8 +184,8 @@ XOM | Exxon Mobil | Energy
 
 Developer **Ahmed Ali Malik**
 
-🔗 [For Email:](ahmedalimalik661@gmail.com)
+🔗 Email : ahmedalimalik661@gmail.com
 
-🔗 [For GitHub:](https://github.com/ahmedalimalik99)
+🔗 For GitHub : https://github.com/ahmedalimalik99
 
-🔗 [For LinkedIn:](www.linkedin.com/in/ahmedalimalik)
+🔗 LinkedIn : www.linkedin.com/in/ahmedalimalik
